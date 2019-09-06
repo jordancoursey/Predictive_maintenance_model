@@ -1,0 +1,6 @@
+train_batch_size: 64
+val_batch_size: 1024
+val_every: 1500
+save_every: 5
+learning_rate: 0.001
+l2_reg_coef: 0.001
